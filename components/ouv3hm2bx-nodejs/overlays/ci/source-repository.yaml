@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ouv3hm2bx-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ouv3hm2bx-nodejs
